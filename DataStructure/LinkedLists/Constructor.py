@@ -91,7 +91,7 @@ class LinkedList():
     def insert(self, index, value):
         if index < 0 or index > self.length: # we can insert at last
             return False
-        # Taking advantage of existing methods
+        # Taking advantage of existing methods & in get() we used >= for index
         if index == 0:
             return self.prepend(value)
         if index == self.length:
