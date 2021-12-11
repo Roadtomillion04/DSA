@@ -2,13 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3ecf1c02-9b09-4aab-921c-c1e026f9bb5e" name="Changes" comment="Second commit">
-      <change afterPath="$PROJECT_DIR$/Algorithms/MergeSort/MergeSort code.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Algorithms/MergeSort/Mergeintro.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Algorithms/QuickSort/PIvot intro.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Algorithms/QuickSort/quickSort.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Algorithms/quickTip.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Algorithms/TreeTraversal/BFS/intro.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Algorithms/TreeTraversal/DFS/InOrder/code.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Algorithms/TreeTraversal/DFS/InOrder/intro.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Algorithms/TreeTraversal/DFS/postOrder/code.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Algorithms/TreeTraversal/DFS/postOrder/intro.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Algorithms/TreeTraversal/DFS/preOrder/code.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Algorithms/TreeTraversal/DFS/preOrder/intro.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Algorithms/TreeTraversal/DFS/quickTip.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DataStructure/HashTable/constructor.py" beforeDir="false" afterPath="$PROJECT_DIR$/DataStructure/HashTable/constructor.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Algorithms/SelectionSort/code.py" beforeDir="false" afterPath="$PROJECT_DIR$/Algorithms/SelectionSort/code.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,16 +38,17 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Admin\PycharmProjects\Datastructers&amp;Algorithm\Algorithms\TreeTraversal\DFS\preOrder\" />
       <recent name="C:\Users\Admin\PycharmProjects\Datastructers&amp;Algorithm\Algorithms\" />
       <recent name="C:\Users\Admin\PycharmProjects\Datastructers&amp;Algorithm\DataStructure\" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.quickSort">
-    <configuration name="MergeSort code" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.code (4)">
+    <configuration name="code (2)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Datastructers&amp;Algorithm" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -52,11 +56,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Algorithms/MergeSort" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Algorithms/TreeTraversal/BFS" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Algorithms/MergeSort/MergeSort code.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Algorithms/TreeTraversal/BFS/code.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -65,7 +69,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Mergeintro" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="code (3)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Datastructers&amp;Algorithm" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -73,11 +77,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Algorithms/MergeSort" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Algorithms/TreeTraversal/DFS/preOrder" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="C:\Users\Admin\PycharmProjects\Datastructers&amp;Algorithm\Algorithms\MergeSort\Mergeintro.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Algorithms/TreeTraversal/DFS/preOrder/code.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -86,7 +90,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="PIvot intro" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="code (4)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Datastructers&amp;Algorithm" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -94,11 +98,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Algorithms/QuickSort" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Algorithms/TreeTraversal/DFS/postOrder" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Algorithms/QuickSort/PIvot intro.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Algorithms/TreeTraversal/DFS/postOrder/code.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -107,7 +111,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="constructor" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="code (5)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Datastructers&amp;Algorithm" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -115,11 +119,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/DataStructure/HashTable" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Algorithms/TreeTraversal/DFS/InOrder" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/DataStructure/HashTable/constructor.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Algorithms/TreeTraversal/DFS/InOrder/code.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -128,7 +132,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="quickSort" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="code" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Datastructers&amp;Algorithm" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -136,11 +140,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Algorithms/QuickSort" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Algorithms/SelectionSort" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Algorithms/QuickSort/quickSort.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Algorithms/SelectionSort/code.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -151,11 +155,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.quickSort" />
-        <item itemvalue="Python.PIvot intro" />
-        <item itemvalue="Python.MergeSort code" />
-        <item itemvalue="Python.Mergeintro" />
-        <item itemvalue="Python.constructor" />
+        <item itemvalue="Python.code (4)" />
+        <item itemvalue="Python.code (3)" />
+        <item itemvalue="Python.code (5)" />
+        <item itemvalue="Python.code (2)" />
+        <item itemvalue="Python.code" />
       </list>
     </recent_temporary>
   </component>
@@ -175,7 +179,14 @@
       <option name="project" value="LOCAL" />
       <updated>1638108830389</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Second commit">
+      <created>1639209511727</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1639209511727</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -198,14 +209,19 @@
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Algorithms/TreeTraversal/DFS/preOrder/code.py</url>
+          <line>61</line>
+          <option name="timeStamp" value="12" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/Algorithms/Recursion/CallStack.py</url>
           <line>15</line>
-          <option name="timeStamp" value="1" />
+          <option name="timeStamp" value="13" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/Algorithms/Recursion/Factorial.py</url>
           <line>9</line>
-          <option name="timeStamp" value="2" />
+          <option name="timeStamp" value="14" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
