@@ -3,7 +3,7 @@ class HashTable:
         self.data_map = [None] * size # creates size times None value
 
     # hashes the key & compute the address, t/c - O(k) which is O(1)
-    def __hash(self, key):
+    def __hash(self, key) -> int:
         my_hash = 0
         for letter in key:
             # ordinal - returns ascii value                 # 7
@@ -13,7 +13,7 @@ class HashTable:
 
     # address space
     def print_table(self):
-        for k, v in enumerate(self.data_map)
+        for k, v in enumerate(self.data_map):
             print(k ,':', v)
 
     # stores key, value pair in hashed address, t/c - O(1)
@@ -35,7 +35,7 @@ class HashTable:
         return None # not found
 
     # returns all keys, t/c - O(n^2)
-    def keys(self):
+    def keys(self) -> list:
         all_keys = []    # 7
         for i in range(len(self.data_map)):
             if self.data_map[i] is not None: # not empty
